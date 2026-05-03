@@ -17,11 +17,12 @@ This code was developed as part of a preliminary design study for a pebble-bed h
 ## Repository Contents
 
 - `gasdyn.py` - compressible-flow and gas-dynamic utility functions.
+- `engine_types.py` - shared data containers used across the solver.
+- `engine_core.py` - component-level flow and thrust calculation functions
 - `engine_sizing.py` - main ramjet sizing functions.
 - `run_engine_sizing.py` - example script for running a single sizing case.
-- `sweep_engine.py` - parameter sweep script used to explore facility operating envelopes.
-- `plotting_scripts/` - plotting routines used to generate selected report figures.
 - `requirements.txt` - Python package requirements.
+
 
 ## Requirements
 
