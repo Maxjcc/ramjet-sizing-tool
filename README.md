@@ -44,12 +44,6 @@ After installing the required packages, example sizing cases can be run using:
 python run_engine_sizing.py
 ```
 
-Parameter sweeps can be run using:
-
-```bash
-python sweep_engine.py
-```
-
 Some file paths, plot output locations or input values may need to be adjusted depending on the local machine and folder structure.
 
 ## Limitations
